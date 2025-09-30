@@ -10,3 +10,7 @@ Experience the live page: [B&O HomePage Demo](https://bebelekele.github.io/my_la
 # Design Reference
 
 Design of the home page: [B&O Deisgn Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=3XsjLVGz9yGvZvt7-0)
+
+# Features
+- Responsive design: Optimized for different screen sizes and devices, responses on width 320px, 640px, 1200px and more.
+
