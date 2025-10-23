@@ -14,10 +14,15 @@ Design of the home page: [B&O Deisgn Figma](https://www.figma.com/design/DtkQmQ7
 # Technologies Used
 
 ### Core
+- HTML5 - Semantic and accessible markup
 - SCSS(Sass) (v1.70.0) — Styling
 
 ### Development & Deployment
+- Parcel (v2.12.0) - Fast bundler for development and production builds
 - ESLint (v8.57.0) — Code quality
+
+### Deployment
+- GitHub Pages — Hosting for the live demo
 
 # Getting Started
 Instruction on how to set up the project locally
