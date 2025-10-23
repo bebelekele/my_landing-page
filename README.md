@@ -11,6 +11,31 @@ Experience the live page: [B&O HomePage Demo](https://bebelekele.github.io/my_la
 
 Design of the home page: [B&O Deisgn Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=3XsjLVGz9yGvZvt7-0)
 
+# Technologies Used
+
+### Core
+- SCSS(Sass) (v1.70.0) — Styling
+
+### Development & Deployment
+- ESLint (v8.57.0) — Code quality
+
+# Getting Started
+Instruction on how to set up the project locally
+
+1. Clone the repository:
+```
+git clone https://github.com/bebelekele/my_landing-page.git
+cd my_landing-page
+```
+2. Install dependecies:
+```
+npm install
+```
+3. Run the project locally:
+```
+npm start
+```
+
 # Features
 - Responsive design: Optimized for different screen sizes and devices, responses on width 320px, 640px, 1200px and more.
 
